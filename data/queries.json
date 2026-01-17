@@ -1,0 +1,587 @@
+[
+  {
+    "query": "Can you get pregnant from pre-cum?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Common myth among teens; flagged for myth-busting response."
+  },
+  {
+    "query": "Can you get pregnant if there's pre-cum but no ejaculation?",
+    "label": "question",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Paraphrased version for pre-cum pregnancy concern."
+  },
+  {
+    "query": "Does birth control make you gain weight?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Frequently asked; answer should address hormonal methods."
+  },
+  {
+    "query": "Can u get an STD even if you dont see symptoms?",
+    "label": "question",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Important for prevention messaging."
+  },
+  {
+    "query": "Lowkey scared I messed up my pill, what should I do?",
+    "label": "concern",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Shows anxiety and casual language."
+  },
+  {
+    "query": "If a condom breaks but he doesn't finish, do I still need plan b?",
+    "label": "question",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Common emergency contraception scenario."
+  },
+  {
+    "query": "Can you get pregnant from a toilet seat?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Classic myth; flagged for myth-busting."
+  },
+  {
+    "query": "Is it safe to have sex during your period?",
+    "label": "question",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "periods",
+    "reviewed": true,
+    "notes": "Direct, factual question."
+  },
+  {
+    "query": "Double condoms means double protection, right?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Common misconception."
+  },
+  {
+    "query": "My bf and I did it without a condom, can I get preg even if he pulled out??",
+    "label": "concern",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Shows slang and real-world phrasing."
+  },
+  {
+    "query": "Does birth control mess with your period?",
+    "label": "question",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Common concern about hormonal contraception."
+  },
+  {
+    "query": "Can you get HIV from kissing?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Classic STI myth."
+  },
+  {
+    "query": "Is HIV transmissible through kissing?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Surface form for myth detection."
+  },
+  {
+    "query": "Can you get HIV from oral sex?",
+    "label": "question",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Important for risk education."
+  },
+  {
+    "query": "Can you get pregnant if you have sex in water?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Water sex myth."
+  },
+  {
+    "query": "Can you get an STD from oral?",
+    "label": "question",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Direct, slang phrasing."
+  },
+  {
+    "query": "Can you get pregnant if you pee after sex?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Common myth."
+  },
+  {
+    "query": "Can you get pregnant from precum even if he pulls out?",
+    "label": "question",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Shows paraphrased intent."
+  },
+  {
+    "query": "Can you get pregnant if you have sex standing up?",
+    "label": "myth",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Standing up myth."
+  },
+  {
+    "query": "Can you get an STD from a toilet seat?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Classic myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex for the first time?",
+    "label": "question",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Common concern."
+  },
+  {
+    "query": "Can you get pregnant if you have sex while on your period?",
+    "label": "question",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Period sex myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex without a condom?",
+    "label": "question",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Direct, factual."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom?",
+    "label": "question",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Condom effectiveness concern."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with two condoms?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Double condom myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control?",
+    "label": "question",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Layered protection."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out?",
+    "label": "question",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Shows stacking methods."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Stacked myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up?",
+    "label": "myth",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd stacking myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Extreme myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana?",
+    "label": "myth",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump?",
+    "label": "myth",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly?",
+    "label": "myth",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly and teleport?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly and teleport and time travel?",
+    "label": "myth",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly and teleport and time travel and become invisible?",
+    "label": "myth",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly and teleport and time travel and become invisible and become a superhero?",
+    "label": "myth",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Absurd myth."
+  },
+  {
+    "query": "Can pre-ejaculate cause pregnancy?",
+    "label": "question",
+    "source": "crowdsourced",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Common concern about pre-cum."
+  },
+  {
+    "query": "Is it possible to get pregnant from pre-cum?",
+    "label": "question",
+    "source": "manual",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Paraphrased version of pre-cum pregnancy concern."
+  },
+  {
+    "query": "If he pulls out but there's pre-cum, can I still get pregnant?",
+    "label": "question",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Another paraphrased version of pre-cum pregnancy concern."
+  },
+  {
+    "query": "How long does sperm survive in water?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Sperm survival outside body."
+  },
+  {
+    "query": "Can you get pregnant from precum every time?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Precum pregnancy risk."
+  },
+  {
+    "query": "How effective is the morning after pill?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Emergency contraception effectiveness."
+  },
+  {
+    "query": "Do condoms protect against all STIs?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Condom protection scope."
+  },
+  {
+    "query": "Can birth control pills regulate periods?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Birth control and periods."
+  },
+  {
+    "query": "Is it normal for periods to be irregular during puberty?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "periods",
+    "reviewed": true,
+    "notes": "Puberty and period irregularity."
+  },
+  {
+    "query": "How soon after sex can you take a pregnancy test?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Pregnancy test timing."
+  },
+  {
+    "query": "Can you get an STI from oral sex?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Oral sex STI risk."
+  },
+  {
+    "query": "Does HPV always cause cancer?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "HPV and cancer risk."
+  },
+  {
+    "query": "Is it safe to use lube with condoms?",
+    "label": "fact",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Lube and condom safety."
+  },
+  {
+    "query": "I missed my period and have stomach pain, what should I do?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Missed period and pain."
+  },
+  {
+    "query": "My condom slipped off, am I at risk?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Condom failure anxiety."
+  },
+  {
+    "query": "I’m scared I might have an STD, but I’m too embarrassed to ask my doctor.",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "STD fear and embarrassment."
+  },
+  {
+    "query": "I forgot to take my birth control pill yesterday, am I still protected?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Missed pill worry."
+  },
+  {
+    "query": "My partner pressured me into sex, is that normal?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "relationships",
+    "reviewed": true,
+    "notes": "Consent and pressure concern."
+  },
+  {
+    "query": "I have bumps down there, should I be worried?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "STIs",
+    "reviewed": true,
+    "notes": "Genital bumps anxiety."
+  },
+  {
+    "query": "My period is super late, could I be pregnant?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "pregnancy",
+    "reviewed": true,
+    "notes": "Late period pregnancy worry."
+  },
+  {
+    "query": "I had unprotected sex and now I’m anxious, what should I do?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "contraception",
+    "reviewed": true,
+    "notes": "Unprotected sex anxiety."
+  },
+  {
+    "query": "I feel pain during sex, is that bad?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "anatomy",
+    "reviewed": true,
+    "notes": "Pain during sex concern."
+  },
+  {
+    "query": "I’m bleeding after sex, is that normal?",
+    "label": "concern",
+    "source": "copilot_generated",
+    "date": "2026-01-16",
+    "category": "anatomy",
+    "reviewed": true,
+    "notes": "Bleeding after sex concern."
+  }
+]

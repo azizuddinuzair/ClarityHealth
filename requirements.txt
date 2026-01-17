@@ -1,0 +1,14 @@
+numpy
+pandas
+transformers
+torch
+scikit-learn
+pytest
+fuzzywuzzy
+python-Levenshtein
+# For spellchecking/correction
+textblob
+# For web/demo
+streamlit
+# For loading datasets from HuggingFace (optional)
+datasets
