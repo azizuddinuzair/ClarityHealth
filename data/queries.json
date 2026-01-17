@@ -1,12 +1,12 @@
 [
   {
     "query": "Can you get pregnant from pre-cum?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Common myth among teens; flagged for myth-busting response."
+    "notes": "Classic myth among teens; flagged for myth-busting. Recommendation: Tag for addressing pre-cum pregnancy risk in curriculum."
   },
   {
     "query": "Can you get pregnant if there's pre-cum but no ejaculation?",
@@ -15,16 +15,16 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Paraphrased version for pre-cum pregnancy concern."
+    "notes": "Paraphrase of pre-cum pregnancy myth. Recommendation: Address nuances of pre-cum risk and clarify difference from ejaculation in educational response."
   },
   {
     "query": "Does birth control make you gain weight?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Frequently asked; answer should address hormonal methods."
+    "notes": "Frequently asked. Recommendation: Curriculum should include info on hormones, method-by-method side effects, and common misconceptions about weight gain."
   },
   {
     "query": "Can u get an STD even if you dont see symptoms?",
@@ -33,16 +33,16 @@
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Important for prevention messaging."
+    "notes": "Important for prevention. Recommendation: Emphasize asymptomatic STI transmission and need for testing, not just symptom monitoring."
   },
   {
     "query": "Lowkey scared I messed up my pill, what should I do?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "manual",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Shows anxiety and casual language."
+    "notes": "Contains urgency, anxiety, and request for help. Recommendation: Flag as high-priority for response/routing; curriculum—address missed pills and next steps."
   },
   {
     "query": "If a condom breaks but he doesn't finish, do I still need plan b?",
@@ -51,16 +51,16 @@
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Common emergency contraception scenario."
+    "notes": "Common emergency contraception scenario; fact-seeking. Recommendation: Curriculum: clarify risks, pre-ejaculate potential, and emergency contraception indications."
   },
   {
     "query": "Can you get pregnant from a toilet seat?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Classic myth; flagged for myth-busting."
+    "notes": "Classic myth phrased as question. Recommendation: Flag for myth-busting, include in curriculum as an iconic myth, clarify impossibility."
   },
   {
     "query": "Is it safe to have sex during your period?",
@@ -69,25 +69,25 @@
     "date": "2026-01-16",
     "category": "periods",
     "reviewed": true,
-    "notes": "Direct, factual question."
+    "notes": "Neutral/factual question. Recommendation: Curriculum: discuss menstrual sex safety, pregnancy risk, and STI risk; flag for myths about period sex."
   },
   {
     "query": "Double condoms means double protection, right?",
-    "label": "myth",
+    "label": "belief/claim/statement",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Common misconception."
+    "notes": "Common misconception; tag-question but primarily asserts belief. Recommendation: Myth-busting in curriculum, visual demonstration of friction/damage risk."
   },
   {
     "query": "My bf and I did it without a condom, can I get preg even if he pulled out??",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Shows slang and real-world phrasing."
+    "notes": "Expresses worry and help-seeking about pregnancy; urgent language. Recommendation: Prioritize for urgent follow-up, clarify withdrawal risk and emergency contraception."
   },
   {
     "query": "Does birth control mess with your period?",
@@ -96,25 +96,25 @@
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Common concern about hormonal contraception."
+    "notes": "Factual question about hormonal contraception. Recommendation: Clarify possible period changes by method, normalize cycle variability in responses."
   },
   {
     "query": "Can you get HIV from kissing?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Classic STI myth."
+    "notes": "Classic STI myth. Recommendation: Flag for myth-busting, stress low/no transmission risk from kissing, clarify real risks in curriculum."
   },
   {
     "query": "Is HIV transmissible through kissing?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Surface form for myth detection."
+    "notes": "Alternate form of #12 above. Recommendation: Note duplicate Q for deduplicated response logic; curriculum—restate correct medical facts."
   },
   {
     "query": "Can you get HIV from oral sex?",
@@ -123,16 +123,16 @@
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Important for risk education."
+    "notes": "Important for risk education. Recommendation: Curriculum: discuss real (but lower) risk of oral sex for HIV/STIs and compare to other routes."
   },
   {
     "query": "Can you get pregnant if you have sex in water?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Water sex myth."
+    "notes": "Water-related pregnancy myth. Recommendation: Myth-busting needed in curriculum, clarify sperm biology and behavior."
   },
   {
     "query": "Can you get an STD from oral?",
@@ -141,16 +141,16 @@
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Direct, slang phrasing."
+    "notes": "Direct, slang phrasing. Recommendation: Curriculum: clarify risks of oral sex for STI transmission and importance of barrier protection."
   },
   {
     "query": "Can you get pregnant if you pee after sex?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Common myth."
+    "notes": "Classic myth; fact-seeking. Recommendation: Flag as myth, curriculum clarification that urination does not affect conception."
   },
   {
     "query": "Can you get pregnant from precum even if he pulls out?",
@@ -159,25 +159,25 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Shows paraphrased intent."
+    "notes": "Asks about combined risk factors. Recommendation: Curriculum: clarify risks of pre-ejaculate, pull-out method limitations, and emergency contraception."
   },
   {
     "query": "Can you get pregnant if you have sex standing up?",
-    "label": "myth",
+    "label": "question",
     "source": "manual",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Standing up myth."
+    "notes": "Classic myth; phrased as question. Recommendation: Myth-busting in educational material; address common physical myths."
   },
   {
     "query": "Can you get an STD from a toilet seat?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Classic myth."
+    "notes": "Classic myth, fact-seeking. Recommendation: Curriculum—clarify disease transmission mechanisms, bust toilet-seat myths."
   },
   {
     "query": "Can you get pregnant if you have sex for the first time?",
@@ -186,7 +186,7 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Common concern."
+    "notes": "Common concern; fact-seeking. Recommendation: Curriculum—address 'first time' myths, reassure that pregnancy is possible at first intercourse."
   },
   {
     "query": "Can you get pregnant if you have sex while on your period?",
@@ -195,7 +195,7 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Period sex myth."
+    "notes": "Period sex myth. Recommendation: Curriculum: clarify reduced but possible risk and basic menstrual cycle biology."
   },
   {
     "query": "Can you get pregnant if you have sex without a condom?",
@@ -204,7 +204,7 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Direct, factual."
+    "notes": "Direct, basic inquiry. Recommendation: Curriculum: reinforce unprotected sexsex risks, basic prevention"
   },
   {
     "query": "Can you get pregnant if you have sex with a condom?",
@@ -213,16 +213,16 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Condom effectiveness concern."
+    "notes": "Factual about condom effectiveness. Recommendation: Include data on typical/perfect use, and explain possibility of condom failure."
   },
   {
     "query": "Can you get pregnant if you have sex with two condoms?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Double condom myth."
+    "notes": "Double-condom myth. Recommendation: Curriculum: stress increased failure risk with two, use visuals."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control?",
@@ -231,7 +231,7 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Layered protection."
+    "notes": "Inquires about layered protection. Recommendation: Curriculum: describe high effectiveness of dual method; stress that nothing is 100%."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out?",
@@ -240,142 +240,142 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Shows stacking methods."
+    "notes": "Stacked myth. Recommendation: Curriculum: address stacking of methods and that some combinations offer only marginal extra benefit."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Stacked myth."
+    "notes": "Absurd myth escalation. Recommendation: Curriculum: use as teaching tool for evaluating risk and debunking rituals post-intercourse; humor is okay in adult ed context."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up?",
-    "label": "myth",
+    "label": "question",
     "source": "manual",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd stacking myth."
+    "notes": "Absurd, escalating myth. Recommendation: See above; curriculum: discuss sperm movement and real vs. imagined risks."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Extreme myth."
+    "notes": "Extreme stacking myth. Recommendation: Use as example in myth-busting module, clarify nothing physical post-sex affects fertilization."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Absurd, playful stacking. Recommendation: Good to address humor in FAQs; curriculum: reiterate actual risk factors, ignore superstitious acts."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana?",
-    "label": "myth",
+    "label": "question",
     "source": "manual",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Further exaggerated myth. Recommendation: Same as above."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Even more absurd. Recommendation: Use for comedic relief in curriculum, highlight actual vs. mythical prevention."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Stack myth, similar to above; curriculum: teach about scientific process for pregnancy."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump?",
-    "label": "myth",
+    "label": "question",
     "source": "manual",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Completely exaggerated. Recommendation: May use in awareness campaigns about internet myths."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Absurdist myth—see #31."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Ridiculous escalation. Recommendation: Useful for showing how myths can spiral into humor; curriculum: reaffirm facts."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly?",
-    "label": "myth",
+    "label": "question",
     "source": "manual",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Humor/absurdist myth. Recommendation: May edit or cut for youth-facing content; otherwise, good for showing boundary of myth-belief."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly and teleport?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Fantasy/absurdist. Recommendation: Flag for optional removal, but can keep for showing curriculum boundaries."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly and teleport and time travel?",
-    "label": "myth",
+    "label": "question",
     "source": "crowdsourced",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Utterly absurd stacking. Recommendation: Same as previous."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly and teleport and time travel and become invisible?",
-    "label": "myth",
+    "label": "question",
     "source": "manual",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Ridiculous. Recommendation: See above."
   },
   {
     "query": "Can you get pregnant if you have sex with a condom and birth control and pull out and pee after and stand up and do a handstand and drink a glass of water and eat a banana and sing a song and dance and jump and run and swim and fly and teleport and time travel and become invisible and become a superhero?",
-    "label": "myth",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Absurd myth."
+    "notes": "Exaggerated/fantasy myth. Recommendation: See previous."
   },
   {
     "query": "Can pre-ejaculate cause pregnancy?",
@@ -384,7 +384,7 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Common concern about pre-cum."
+    "notes": "Asks about real medical risk. Recommendation: Curriculum should address likelihood and science of pre-ejaculate (including sperm presence)."
   },
   {
     "query": "Is it possible to get pregnant from pre-cum?",
@@ -393,7 +393,7 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Paraphrased version of pre-cum pregnancy concern."
+    "notes": "Alternate wording; direct fact-seeking. Recommendation: See Q43."
   },
   {
     "query": "If he pulls out but there's pre-cum, can I still get pregnant?",
@@ -402,186 +402,186 @@
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Another paraphrased version of pre-cum pregnancy concern."
+    "notes": "Paraphrased withdrawal+pre-cum risk. Recommendation: Curriculum should explain combined risks."
   },
   {
     "query": "How long does sperm survive in water?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Sperm survival outside body."
+    "notes": "Sperm survival myth. Recommendation: Use in myth-busting; curriculum: sperm lifespan inside/outside body."
   },
   {
     "query": "Can you get pregnant from precum every time?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Precum pregnancy risk."
+    "notes": "Everyday concern. Recommendation: Discuss odds, clarify chance is lower but not zero; address misunderstanding."
   },
   {
     "query": "How effective is the morning after pill?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Emergency contraception effectiveness."
+    "notes": "EC effectiveness. Recommendation: Stress window of use and lower efficacy over time."
   },
   {
     "query": "Do condoms protect against all STIs?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Condom protection scope."
+    "notes": "Factual, relates to comprehensive protection. Recommendation: Curriculum: explain which STIs can still be transmitted skin-to-skin."
   },
   {
     "query": "Can birth control pills regulate periods?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Birth control and periods."
+    "notes": "Regulating periods with hormonal methods. Recommendation: Curriculum: typical responses and individual variability."
   },
   {
     "query": "Is it normal for periods to be irregular during puberty?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "periods",
     "reviewed": true,
-    "notes": "Puberty and period irregularity."
+    "notes": "Puberty question. Recommendation: Normalize cycle variability; curriculum focus on puberty/adolescence."
   },
   {
     "query": "How soon after sex can you take a pregnancy test?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Pregnancy test timing."
+    "notes": "How and when to test. Recommendation: Curriculum should explain window period for accurate test results."
   },
   {
     "query": "Can you get an STI from oral sex?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Oral sex STI risk."
+    "notes": "Oral sex STI risk. Recommendation: Curriculum: clarify routes, level of risk, and prevention methods."
   },
   {
     "query": "Does HPV always cause cancer?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "HPV and cancer risk."
+    "notes": "Myths about HPV severity. Recommendation: Curriculum: clarify not all HPV strains cause cancer; importance of vaccination and regular screening."
   },
   {
     "query": "Is it safe to use lube with condoms?",
-    "label": "fact",
+    "label": "question",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Lube and condom safety."
+    "notes": "Lube/condom compatibility. Recommendation: Curriculum: discuss water-based vs. oil-based and risks of breakage with some lubes."
   },
   {
     "query": "I missed my period and have stomach pain, what should I do?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Missed period and pain."
+    "notes": "Urgent help-seeking, possible pregnancy or health risk. Recommendation: Curriculum/AI should triage as possible urgent symptom, advise follow-up."
   },
   {
     "query": "My condom slipped off, am I at risk?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Condom failure anxiety."
+    "notes": "Urgent risk concern. Recommendation: Prioritize rapid response for exposure/risk events; curriculum: clarify next steps and testing."
   },
   {
     "query": "I’m scared I might have an STD, but I’m too embarrassed to ask my doctor.",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "STD fear and embarrassment."
+    "notes": "Expresses fear and embarrassment; concern about stigma. Recommendation: Curriculum: address stigma, importance of non-judgmental care, encourage clinical follow-up."
   },
   {
     "query": "I forgot to take my birth control pill yesterday, am I still protected?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Missed pill worry."
+    "notes": "Worry about effectiveness after missed dose. Recommendation: Auto-triage for prompt answer; curriculum/AI: clarify back-up contraception/use scenario trees."
   },
   {
     "query": "My partner pressured me into sex, is that normal?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "relationships",
     "reviewed": true,
-    "notes": "Consent and pressure concern."
+    "notes": "Consent/psychological concern. Recommendation: Prioritize mental health & safeguarding; curriculum: define healthy consent, boundaries, and support for coercion."
   },
   {
     "query": "I have bumps down there, should I be worried?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "STIs",
     "reviewed": true,
-    "notes": "Genital bumps anxiety."
+    "notes": "Potentially urgent symptom. Recommendation: Triage for medical evaluation; curriculum: avoid stigmatization, clarify possible benign vs. concerning causes."
   },
   {
     "query": "My period is super late, could I be pregnant?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "pregnancy",
     "reviewed": true,
-    "notes": "Late period pregnancy worry."
+    "notes": "Anxiety about missed period. Recommendation: Curriculum: when to test, signs of pregnancy, when to seek help."
   },
   {
     "query": "I had unprotected sex and now I’m anxious, what should I do?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "contraception",
     "reviewed": true,
-    "notes": "Unprotected sex anxiety."
+    "notes": "Direct worry after risky event. Recommendation: Prioritize, list emergency steps & reassurance."
   },
   {
     "query": "I feel pain during sex, is that bad?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "anatomy",
     "reviewed": true,
-    "notes": "Pain during sex concern."
+    "notes": "Medical concern for possible health problem. Recommendation: Curriculum: when pain is normal/abnormal, when to seek care, validation of experience."
   },
   {
     "query": "I’m bleeding after sex, is that normal?",
-    "label": "concern",
+    "label": "concern/urgent",
     "source": "copilot_generated",
     "date": "2026-01-16",
     "category": "anatomy",
     "reviewed": true,
-    "notes": "Bleeding after sex concern."
+    "notes": "Possible urgent symptom. Recommendation: Triage for medical consultation; curriculum: explain common vs. warning signs."
   }
 ]
